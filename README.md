@@ -4,6 +4,7 @@ This web application is a quiz that runs in a browser and features dynamically u
 
 links:
 
+https://jayad619.github.io/Homework4_codequiz/
+https://github.com/Jayad619/Homework4_codequiz
 
-<img scr="Assets/images/Screenshot 2022-05-19 at 19.30.50.png">
 
