@@ -4,6 +4,6 @@ This web application is a quiz that runs in a browser and features dynamically u
 
 links:
 
+<img width="1512" alt="Screenshot 2022-05-19 at 19 30 50" src="https://user-images.githubusercontent.com/102623563/169387886-aaa50146-4807-407d-8167-790a8ee936a0.png">
 
-<img scr="Assets/images/Screenshot 2022-05-19 at 19.30.50.png">
 
